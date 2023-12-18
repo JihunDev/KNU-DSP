@@ -1,0 +1,28 @@
+repo_name: JihunDev/KNU-DSP
+report_id: b2a81fea46fa33a1da54c2ab6ae9924b
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-18T07:38:50+00:00'
+requested_by: JihunDev
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
